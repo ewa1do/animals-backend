@@ -1,5 +1,5 @@
 export interface PuppyResponse {
-  id: string;
+  id?: string;
   description: string;
   gender: string;
   image: string;

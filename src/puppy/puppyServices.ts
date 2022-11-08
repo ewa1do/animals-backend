@@ -1,13 +1,24 @@
-import { PuppyRepository } from './puppyRepository';
+import { PuppyResponse } from './puppyEntity';
+import repository from './puppyRepository';
 
-export class PuppyServices {
+class PuppyServices {
   constructor() {}
 
+  async create(body: PuppyResponse) {
+    return await repository.createPuppy(body);
+  }
+
   async getAll() {
-    return PuppyRepository.getAllPuppies();
+    return await repository.getAllPuppies();
   }
 
   async getOne(id: string) {
-    return PuppyRepository.getOnePuppy(id);
+    return await repository.getOnePuppy(id);
+  }
+
+  async deleteOne(id: string) {
+    return await repository.deleteOnePuppy(id);
   }
 }
+
+export default new PuppyServices();

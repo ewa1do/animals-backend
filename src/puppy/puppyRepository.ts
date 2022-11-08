@@ -1,15 +1,30 @@
-import { puppyModel } from './puppyModel';
+import { PuppyResponse } from './puppyEntity';
+import Puppy from './puppyModel';
 
-export class PuppyRepository {
-  static async getAllPuppies() {
-    const puppies = await puppyModel();
+class PuppyRepository {
+  constructor() {}
+
+  async createPuppy(body: PuppyResponse) {
+    const newPuppy = await Puppy.create(body);
+
+    return newPuppy;
+  }
+
+  async getAllPuppies() {
+    const puppies = await Puppy.find();
 
     return puppies;
   }
 
-  static async getOnePuppy(id: string) {
-    const puppies = await puppyModel();
+  async getOnePuppy(id: string) {
+    const puppy = await Puppy.findById(id);
 
-    return puppies.find((puppy) => puppy.id === id);
+    return puppy;
+  }
+
+  async deleteOnePuppy(id: string) {
+    return await Puppy.findByIdAndDelete(id);
   }
 }
+
+export default new PuppyRepository();

@@ -1,10 +1,14 @@
 import { Router } from 'express';
-import { getAllPuppies, getOnePuppy } from './puppyController';
+import {
+  createPuppy,
+  deleteOnePuppy,
+  getAllPuppies,
+  getOnePuppy,
+} from './puppyController';
 
 const router = Router();
 
-router.route('/').get(getAllPuppies);
-
-router.route('/:id').get(getOnePuppy);
+router.route('/').get(getAllPuppies).post(createPuppy);
+router.route('/:id').get(getOnePuppy).delete(deleteOnePuppy);
 
 export default router;
