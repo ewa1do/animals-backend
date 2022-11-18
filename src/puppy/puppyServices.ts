@@ -8,8 +8,10 @@ class PuppyServices {
     return await repository.createPuppy(body);
   }
 
-  async getAll() {
-    return await repository.getAllPuppies();
+  async getAll(query: any) {
+    const puppies = await repository.getAllPuppies(query);
+
+    return puppies;
   }
 
   async getOne(id: string) {

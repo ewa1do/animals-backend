@@ -1,6 +1,16 @@
 import { Request, Response, NextFunction } from 'express';
 import services from './puppyServices';
 
+export const responseFeatures = (
+  req: Request,
+  _: Response,
+  next: NextFunction
+) => {
+  req.query.fields = 'id,name,description,gender,image,kind';
+
+  next();
+};
+
 export const createPuppy = async (req: Request, res: Response) => {
   const puppy = await services.create(req.body);
 
@@ -13,10 +23,13 @@ export const createPuppy = async (req: Request, res: Response) => {
 };
 
 export const getAllPuppies = async (req: Request, res: Response) => {
-  const puppies = await services.getAll();
+  const puppies = await services.getAll(req.query);
+
+  const results = puppies.length;
 
   res.status(200).json({
     status: 'success',
+    results,
     puppies,
   });
 };

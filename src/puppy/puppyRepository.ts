@@ -1,3 +1,4 @@
+import ApiFeatures from '../utils/APIFeatures';
 import { PuppyResponse } from './puppyEntity';
 import Puppy from './puppyModel';
 
@@ -10,10 +11,15 @@ class PuppyRepository {
     return newPuppy;
   }
 
-  async getAllPuppies() {
-    const puppies = await Puppy.find();
+  async getAllPuppies(query: any) {
+    const puppies = Puppy.find();
 
-    return puppies;
+    const features = new ApiFeatures(puppies, query)
+      .filter()
+      .limitFields()
+      .paginate();
+
+    return await features.query;
   }
 
   async getOnePuppy(id: string) {
