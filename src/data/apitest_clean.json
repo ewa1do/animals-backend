@@ -1,0 +1,902 @@
+[
+  {
+    "description": "I am tomorrow, or some future day, what I establish today. I am today what I established yesterday or some previous day.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/I3-jG59ac.jpg",
+    "kind": "gato",
+    "name": "caesar",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-26159589"
+  },
+  {
+    "description": "Civilization grew in the beginning from the minute that we had communication - particularly communication by sea that enabled people to get inspiration and ideas from each other and to exchange basic raw materials.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "roby",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-84048725"
+  },
+  {
+    "description": "Unless you have prepared yourself to profit by your chance, the opportunity will only make you ridiculous. A great occasion is valuable to you just in proportion as you have educated yourself to make use of it.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_14369.jpg",
+    "kind": "perro",
+    "name": "ghost",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-71096107"
+  },
+  {
+    "description": "It's funny - nowadays people that are famous get chased by paparazzi. They have this fame, but they don't have the money to hide from it.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg",
+    "kind": "ave",
+    "name": "jagger",
+    "owner": "Harold,Foster",
+    "phoneNumber": "+57-311-87336192"
+  },
+  {
+    "description": "God did not intend religion to be an exercise club.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Crested_Coua_RWD3.jpg",
+    "kind": "ave",
+    "name": "mabel",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-85491421"
+  },
+  {
+    "description": "Folks, the most insidious part of this whole health care scheme is that all of these vast medical expenditures will become nothing more than government budget items. We individuals will no longer exist. The relationship between a government and citizen will change forever.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_3079.jpg",
+    "kind": "perro",
+    "name": "dak",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-34752776"
+  },
+  {
+    "description": "Having your own character in a video game is pretty cool.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "mr.t",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-43500338"
+  },
+  {
+    "description": "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_7710.jpg",
+    "kind": "perro",
+    "name": "jeep",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-57448668"
+  },
+  {
+    "description": "The advocates of abortion on demand falsely assume two things: that women must suffer if the lives of unborn children are legally protected and that women can only attain equality by having the legal option of destroying their innocent offspring in the womb.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "seamore",
+    "owner": "Harold,Foster",
+    "phoneNumber": "+57-311-73291785"
+  },
+  {
+    "description": "When I can 10 or 11, my mom was the one out there catching passes for me. She was my prime receiver.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/cdb.jpg",
+    "kind": "gato",
+    "name": "koduh",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-55312814"
+  },
+  {
+    "description": "I get to play golf for a living. What more can you ask for - getting paid for doing what you love.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/coonhound/n02089078_2753.jpg",
+    "kind": "perro",
+    "name": "spartacus poseidon",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-6615054"
+  },
+  {
+    "description": "Imagination is as good as many voyages - and how much cheaper!",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "chicago",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-11421803"
+  },
+  {
+    "description": "For as long as I can remember I have suffered from a deep feeling of anxiety which I have tried to express in my art.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Cochlearius_cochleariaPCCA20071227-8443B.jpg",
+    "kind": "ave",
+    "name": "basher",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-34271784"
+  },
+  {
+    "description": "My best friend is the one who brings out the best in me.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bali_Mynah.jpg",
+    "kind": "ave",
+    "name": "argus",
+    "owner": "Mary,Smith",
+    "phoneNumber": "+57-311-84440953"
+  },
+  {
+    "description": "Three groups spend other people's money: children, thieves, politicians. All three need supervision.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/4qYojbVqc.jpg",
+    "kind": "gato",
+    "name": "king",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-33633756"
+  },
+  {
+    "description": "I would cap the amount of federal government can spend at 20 percent of the economy. Bring it back to 20 percent or lower. And say, we are not going to spend above that level. Democrats, they want to raise your taxes and spend more and more and turn us into an economy which is no longer driven by the private sector.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/b43.jpg",
+    "kind": "gato",
+    "name": "suka",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-34644612"
+  },
+  {
+    "description": "If we are to negotiate the coming years safely, we may need a new kind of leadership. To put it more precisely, we need the rediscovery of an ancient kind of leadership that has rarely been given the prominence it deserves. I mean the leader as teacher.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cacatua_moluccensis_-Cincinnati_Zoo-8a.jpg",
+    "kind": "ave",
+    "name": "kahn",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-15683922"
+  },
+  {
+    "description": "Congratulations, you have a sense of humor. And to those who didn't: Go stick your head in the mud.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cacatua_moluccensis_-Cincinnati_Zoo-8a.jpg",
+    "kind": "ave",
+    "name": "mr.b",
+    "owner": "David,Whitehead",
+    "phoneNumber": "+57-311-77827070"
+  },
+  {
+    "description": "People ask me what the most important thing to take on the race is, and I always say it's a sense of humor. If you've got nothing but a sense of humor, you will survive.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "malory",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-94497656"
+  },
+  {
+    "description": "It's funny - if you impersonate somebody, they have no idea it's them.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tumpeter1byWoodigo.JPG",
+    "kind": "ave",
+    "name": "lola",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-9883673"
+  },
+  {
+    "description": "It is better to be unhappy in love than unhappy in marriage, but some people manage to be both.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "joubert",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-68081426"
+  },
+  {
+    "description": "The planter, the farmer, the mechanic, and the laborer... form the great body of the people of the United States, they are the bone and sinew of the country men who love liberty and desire nothing but equal rights and equal laws.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "keeloni",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-31347311"
+  },
+  {
+    "description": "When we try to pick out anything by itself, we find it hitched to everything else in the universe.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "pukuk",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-87356391"
+  },
+  {
+    "description": "You cannot set art off in a corner and hope for it to have vitality, reality, and substance.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/hound-afghan/n02088094_6372.jpg",
+    "kind": "perro",
+    "name": "midas",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-41337367"
+  },
+  {
+    "description": "The beauty of having short hair is that I actually can wash and style it at home!",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_1564.jpg",
+    "kind": "perro",
+    "name": "taco",
+    "owner": "Jose,Rodriguez",
+    "phoneNumber": "+57-311-67897187"
+  },
+  {
+    "description": "Your destiny is my destiny. Your happiness is my happiness.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/Pwcr--JhB.jpg",
+    "kind": "gato",
+    "name": "nerre",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-21050467"
+  },
+  {
+    "description": "A man can be happy with any woman, as long as he does not love her.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "cahya",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-21697571"
+  },
+  {
+    "description": "There is certain relief in change, even though it be from bad to worse! As I have often found in traveling in a stagecoach, that it is often a comfort to shift one's position, and be bruised in a new place.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_1345.jpg",
+    "kind": "perro",
+    "name": "usher",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-77584463"
+  },
+  {
+    "description": "The art of government is the organisation of idolatry.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/cgn.jpg",
+    "kind": "gato",
+    "name": "fluffy blaze",
+    "owner": "Vernon,Frank",
+    "phoneNumber": "+57-311-5671996"
+  },
+  {
+    "description": "My dad was a singer in a band and neither of my parents went to college, and I ended up getting into Harvard and was the first person in my family that went to college and it happened to be Harvard.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/eel.jpg",
+    "kind": "gato",
+    "name": "mystique",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-24804603"
+  },
+  {
+    "description": "It is easier for a father to have children than for children to have a real father.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/4lv.gif",
+    "kind": "gato",
+    "name": "floyd",
+    "owner": "David,Whitehead",
+    "phoneNumber": "+57-311-44427082"
+  },
+  {
+    "description": "The most terrible job in warfare is to be a second lieutenant leading a platoon when you are on the battlefield.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "rolo",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-37053769"
+  },
+  {
+    "description": "He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/redbone/n02090379_5326.jpg",
+    "kind": "perro",
+    "name": "dazee",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-59147544"
+  },
+  {
+    "description": "For every quarrel a man and wife have before others, they have a hundred when alone.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "brutus",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-18138396"
+  },
+  {
+    "description": "Jealousy is all the fun you think they had.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "messi",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-39853325"
+  },
+  {
+    "description": "Don't corral me, and I'll always come home. Just let me go out and play during the day.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/8h2.jpg",
+    "kind": "gato",
+    "name": "tori",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-90981755"
+  },
+  {
+    "description": "Currently, I am overseeing the construction of the new Trump Tower in Chicago. I am involved in meeting with the construction crews, architects and sales teams. I am learning a lot and working with some of the best in the business.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/huNquXtlK.jpg",
+    "kind": "gato",
+    "name": "dash",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-99438646"
+  },
+  {
+    "description": "One of the things that people don't realize is that that natural beauty, those recreational forests, they have an economic development impact for the state as well.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/2lm.gif",
+    "kind": "gato",
+    "name": "henni",
+    "owner": "Mary,Smith",
+    "phoneNumber": "+57-311-97447488"
+  },
+  {
+    "description": "Our Soviet espionage efforts had virtually never, or had very seldom, produced any worthwhile political or economic intelligence on the Soviet Union.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "channel",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-443585"
+  },
+  {
+    "description": "Painting, sculpture and architecture are finished, but the art habit continues.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "jace",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-79473855"
+  },
+  {
+    "description": "As the most extravagant errors were received among the established articles of their faith, so the most infamous vices obtained in their practice, and were indulged not only with impunity, but authorized by the sanction of their laws.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Blue-crowned_Laughingthrush_10.jpg",
+    "kind": "ave",
+    "name": "unknown",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-43909505"
+  },
+  {
+    "description": "Had anyone told me that I was going to have a career in business, I would have said, 'No way.'",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "sugar bell",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-83088628"
+  },
+  {
+    "description": "Love is friendship set on fire.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "sister",
+    "owner": "Paul,Bronson",
+    "phoneNumber": "+57-311-32119783"
+  },
+  {
+    "description": "When I turned about 12 or 13, I realised that being funny wasn't about remembering jokes. It was about creating them.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "ping",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-368806"
+  },
+  {
+    "description": "The man who has no money is poor, but one who has nothing but money is poorer. He only is rich who can enjoy without owning he is poor who though he has millions is covetous.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/dnh.jpg",
+    "kind": "gato",
+    "name": "kalisse",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-38969359"
+  },
+  {
+    "description": "Science cannot tell theology how to construct a doctrine of creation, but you can't construct a doctrine of creation without taking account of the age of the universe and the evolutionary character of cosmic history.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "axle",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-56423985"
+  },
+  {
+    "description": "Good judgement comes from experience. Experience comes from bad judgement.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/6j5.jpg",
+    "kind": "gato",
+    "name": "marty",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-75970377"
+  },
+  {
+    "description": "Hope is a great falsifier. Let good judgment keep her in check.",
+    "gender": "male",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/1-trinidad-motmot-blue-crowned-motmot-ken-archer.jpg",
+    "kind": "ave",
+    "name": "dakota",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-50635886"
+  },
+  {
+    "description": "I'm not really a morning person.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "neca",
+    "owner": "Tracy,Coulter",
+    "phoneNumber": "+57-311-45512300"
+  },
+  {
+    "description": "Is it not by love alone that we succeed in penetrating to the very essence of being?",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/dane-great/n02109047_14013.jpg",
+    "kind": "perro",
+    "name": "bos",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-593606"
+  },
+  {
+    "description": "If we do not get No Child Left Behind right for Limited English Proficient students, the law will be a failure for most schools in the 15th Congressional District, and for many across the nation.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "jubilee",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-48081602"
+  },
+  {
+    "description": "The church acknowledges some Scientologists choose to sever communications with family members who leave. The church says it is a fundamental human right to cease communication with someone. It adds disconnection is used against expelled members and those who attack the church.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "wheezy",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-9292355"
+  },
+  {
+    "description": "If you want to have a good life, you should focus on your family, on your business, on your dog, on your fun, and you'll have a good life.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/White-eared_bulbul.jpg",
+    "kind": "ave",
+    "name": "gambit",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-23260269"
+  },
+  {
+    "description": "Mitt - what I speak to Mitt Romney about is jobs. What I speak to Mitt Romney about is China, because he's got a great view on China and how they're trying to destroy our country by taking our jobs and making our product and manipulating their currency, so that it makes it almost impossible for our companies to compete.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "wanda",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-68170858"
+  },
+  {
+    "description": "I stopped predicting the future a long time ago.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a_%281%29.jpg",
+    "kind": "ave",
+    "name": "edward",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-86207476"
+  },
+  {
+    "description": "This may sound funny, but as much as the 'Today' show matured me, it also was something of a cocoon. I'd been happy there. I never went into the boss's office and pounded my fist on the desk, saying, 'Give me more money! Give me a prime-time show!'",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "nuka",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-48063641"
+  },
+  {
+    "description": "In action a great heart is the chief qualification. In work, a great head.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/pointer-german/n02100236_1838.jpg",
+    "kind": "perro",
+    "name": "wula",
+    "owner": "Holly,Jones",
+    "phoneNumber": "+57-311-90491673"
+  },
+  {
+    "description": "I looked up my family tree and found out I was the sap.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/9tl.jpg",
+    "kind": "gato",
+    "name": "zeppelin",
+    "owner": "Patricia,Milgrom",
+    "phoneNumber": "+57-311-9584914"
+  },
+  {
+    "description": "Faith means intense, usually confident, belief that is not based on evidence sufficient to command assent from every reasonable person.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Struthio_camelus_-_Etosha_2014_%283%29.jpg",
+    "kind": "ave",
+    "name": "zula",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-93254836"
+  },
+  {
+    "description": "I am excited to rise today to support National Mom and Pop Business Owners Day. This celebration honors the husband and wife business owner teams whose work helps drive the economy and fuel job growth.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "minnie",
+    "owner": "Jose,Rodriguez",
+    "phoneNumber": "+57-311-52493643"
+  },
+  {
+    "description": "I was scheduled to give my first official press conference that morning anyway, 'cause I was chairman of the Governors Energy Council and I was making a press conference with regard to energy policy.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pink_backed_pelican_side_view.jpg",
+    "kind": "ave",
+    "name": "sap",
+    "owner": "James,Johnson",
+    "phoneNumber": "+57-311-6078505"
+  },
+  {
+    "description": "My parents are wonderful, and I'm really lucky - but my mom has always been almost exclusively a right-brained person. She goes completely on her feelings of things, on her intuition, and so she instilled that in my brothers and I.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "doolie",
+    "owner": "Patricia,Rubin",
+    "phoneNumber": "+57-311-28551595"
+  },
+  {
+    "description": "America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "kip",
+    "owner": "Kelly,Marder",
+    "phoneNumber": "+57-311-86238834"
+  },
+  {
+    "description": "Great effort springs naturally from great attitude.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "toy",
+    "owner": "Sandy,Johanson",
+    "phoneNumber": "+57-311-92647369"
+  },
+  {
+    "description": "I replaced the headlights in my car with strobe lights, so it looks like I'm the only one moving.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Blue-and-Yellow-Macaw.jpg",
+    "kind": "ave",
+    "name": "jagger",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-47244508"
+  },
+  {
+    "description": "Government in the U.S. today is a senior partner in every business in the country.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "beauregard",
+    "owner": "Patricia,Rubin",
+    "phoneNumber": "+57-311-95990479"
+  },
+  {
+    "description": "I don't care tuppence whether I'm forced into a leadership position or not. I'd much sooner not.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wood_Duck_%28Aix_sponsa%29%2C_Parc_du_Rouge-Clo%C3%AEtre%2C_Brussels.jpg",
+    "kind": "ave",
+    "name": "neva",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-51302177"
+  },
+  {
+    "description": "As a young man you don't notice at all that you were, after all, badly affected. For years afterwards, at least ten years, I kept getting these dreams, in which I had to crawl through ruined houses, along passages I could hardly get through.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "spooky",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-91347176"
+  },
+  {
+    "description": "True courage is not the brutal force of vulgar heroes, but the firm resolve of virtue and reason.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/be1.jpg",
+    "kind": "gato",
+    "name": "kilter",
+    "owner": "Emily,Wood",
+    "phoneNumber": "+57-311-60130635"
+  },
+  {
+    "description": "A chronicle is very different from history proper.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "oh boy",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-8566035"
+  },
+  {
+    "description": "In Los Angeles, as I gained and lost celebrity, then gained it again, I often found myself wondering why I, out of thousands like me, had become famous.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_2376.jpg",
+    "kind": "perro",
+    "name": "bridgette",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-45554119"
+  },
+  {
+    "description": "I believe that music in itself heals and that everything is about the power of the mind. I thought if you are happy, you don't get ill. Your health is in your head. When you are satisfied with your work, you don't get ill.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/leonberg/n02111129_2088.jpg",
+    "kind": "perro",
+    "name": "dodge",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-59642268"
+  },
+  {
+    "description": "Middle age is the time when a man is always thinking that in a week or two he will feel as good as ever.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Crested_Bustard_-_Eupodotis_ruficrista_gindiana.jpg",
+    "kind": "ave",
+    "name": "vixen",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-63303677"
+  },
+  {
+    "description": "You know that being an American is more than a matter of where your parents came from. It is a belief that all men are created free and equal and that everyone deserves an even break.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/bluetick/n02088632_1173.jpg",
+    "kind": "perro",
+    "name": "jelly",
+    "owner": "Holly,Holmes",
+    "phoneNumber": "+57-311-5013557"
+  },
+  {
+    "description": "To fulfill a dream, to be allowed to sweat over lonely labor, to be given a chance to create, is the meat and potatoes of life. The money is the gravy.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/rottweiler/n02106550_3528.jpg",
+    "kind": "perro",
+    "name": "fangsie",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-9872686"
+  },
+  {
+    "description": "The only vice that cannot be forgiven is hypocrisy. The repentance of a hypocrite is itself hypocrisy.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dnl.jpg",
+    "kind": "gato",
+    "name": "herbie",
+    "owner": "William,Martin",
+    "phoneNumber": "+57-311-17500832"
+  },
+  {
+    "description": "If Liberia has failed, then, it is no evidence of the failure of the Negro in government. It is merely evidence of the failure of slavery.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "kind": "roedor",
+    "name": "kleio",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-84599519"
+  },
+  {
+    "description": "I feel pretty good when I get out of bed in the morning. I don't feel all beat up, which is nice.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dm1.jpg",
+    "kind": "gato",
+    "name": "aubrey",
+    "owner": "Vernon,Frank",
+    "phoneNumber": "+57-311-25253800"
+  },
+  {
+    "description": "Synergy and serendipity often play a big part in medical and scientific advances.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/bri.jpg",
+    "kind": "gato",
+    "name": "tonka",
+    "owner": "Holly,Jones",
+    "phoneNumber": "+57-311-78246433"
+  },
+  {
+    "description": "In marriage, a man becomes slack and selfish, and undergoes a fatty degeneration of his moral being.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dll.jpg",
+    "kind": "gato",
+    "name": "justice",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-91335689"
+  },
+  {
+    "description": "Appealing workplaces are to be avoided. One wants a room with no view, so imagination can meet memory in the dark.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/e4b.jpg",
+    "kind": "gato",
+    "name": "nantahala",
+    "owner": "Bill,Marlin",
+    "phoneNumber": "+57-311-383568"
+  },
+  {
+    "description": "Christians are supposed not merely to endure change, nor even to profit by it, but to cause it.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/dfo.jpg",
+    "kind": "gato",
+    "name": "horizon",
+    "owner": "Patricia,Rubin",
+    "phoneNumber": "+57-311-28568356"
+  },
+  {
+    "description": "Turkey wants a policy of engagement exactly like President Obama's new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rhynchopsitta_pachyrhyncha_-Arizona-Sonora_Desert_Museum%2C_Tucson%2C_Arizona%2C_USA-8a.jpg",
+    "kind": "ave",
+    "name": "sammi",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-51642982"
+  },
+  {
+    "description": "My recipe for dealing with anger and frustration: set the kitchen timer for twenty minutes, cry, rant, and rave, and at the sound of the bell, simmer down and go about business as usual.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/GuamRail02.jpg",
+    "kind": "ave",
+    "name": "koga",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-51173718"
+  },
+  {
+    "description": "A huge part of acting in movies is appetite. You do your best work when you've got a lot of appetite and you really want to embrace something. When you get tired, you don't have that hunger.",
+    "gender": "female",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/GuamRail02.jpg",
+    "kind": "ave",
+    "name": "potato",
+    "owner": "Holly,Jones",
+    "phoneNumber": "+57-311-48458474"
+  },
+  {
+    "description": "But if we get to the point where more people do not believe in a God than who do believe in God, we will have a hollow legal system - we will have something without heart.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_442.jpg",
+    "kind": "perro",
+    "name": "miss lady",
+    "owner": "Tracy,Coulter",
+    "phoneNumber": "+57-311-8046323"
+  },
+  {
+    "description": "Money equals freedom.",
+    "gender": "female",
+    "image": "https://images.dog.ceo/breeds/saluki/n02091831_10722.jpg",
+    "kind": "perro",
+    "name": "patience",
+    "owner": "David,Adamson",
+    "phoneNumber": "+57-311-40455185"
+  },
+  {
+    "description": "Friendship's the wine of life: but friendship new... is neither strong nor pure.",
+    "gender": "female",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/1-trinidad-motmot-blue-crowned-motmot-ken-archer.jpg",
+    "kind": "ave",
+    "name": "emery",
+    "owner": "Kenneth,Charles",
+    "phoneNumber": "+57-311-14495625"
+  },
+  {
+    "description": "Life could be wonderful if people would leave you alone.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/J-MCA1LOV.jpg",
+    "kind": "gato",
+    "name": "weenie",
+    "owner": "Mary,Smith",
+    "phoneNumber": "+57-311-20076458"
+  },
+  {
+    "description": "In my family, we were Americans, we were Republicans and we were Methodists.",
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1618252903592-2b8c90c43a6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "kind": "roedor",
+    "name": "angie",
+    "owner": "Paul,Bronson",
+    "phoneNumber": "+57-311-78723430"
+  },
+  {
+    "description": "I don't think of myself as hot or cool or anything, just a dork.",
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1577099600565-e89ede2b9422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "kind": "roedor",
+    "name": "chill",
+    "owner": "David,Whitehead",
+    "phoneNumber": "+57-311-43763394"
+  },
+  {
+    "description": "When I was younger, I had a perm, and it was really big. My mom was a hairdresser, so even my dad had a perm! I looked like a poodle, but it was cool at the time.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/pinscher-miniature/n02107312_2706.jpg",
+    "kind": "perro",
+    "name": "tasha",
+    "owner": "Sandy,Adams",
+    "phoneNumber": "+57-311-72021326"
+  },
+  {
+    "description": "Mom ran the house, so we grew up Portuguese.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/chow/n02112137_8983.jpg",
+    "kind": "perro",
+    "name": "riddick",
+    "owner": "Vernon,Frank",
+    "phoneNumber": "+57-311-50909946"
+  },
+  {
+    "description": "Never mind your happiness do your duty.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/basenji/n02110806_2630.jpg",
+    "kind": "perro",
+    "name": "tickle",
+    "owner": "Frank,Smith",
+    "phoneNumber": "+57-311-75675448"
+  },
+  {
+    "description": "A liberal education is at the heart of a civil society, and at the heart of a liberal education is the act of teaching.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nestor_notabilis_-Fiordland%2C_New_Zealand-8b.jpg",
+    "kind": "ave",
+    "name": "klondike",
+    "owner": "David,Webster",
+    "phoneNumber": "+57-311-626310"
+  },
+  {
+    "description": "You bet every member of Congress who votes for this bill ought to read it, read it thoroughly, and understand that what we're looking at here amounts to nothing more than a government takeover of our health care economy, paid for with nearly a trillion dollars in new taxes on individuals and small businesses. And it must be opposed.",
+    "gender": "female",
+    "image": "https://cdn2.thecatapi.com/images/2nn.jpg",
+    "kind": "gato",
+    "name": "illa",
+    "owner": "James,Johnson",
+    "phoneNumber": "+57-311-16242659"
+  },
+  {
+    "description": "I think that sense of humor is important in marriage. A sense of humor gets people through marriage.",
+    "gender": "male",
+    "image": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_728.jpg",
+    "kind": "perro",
+    "name": "riot",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-20772162"
+  },
+  {
+    "description": "The human body is the best picture of the human soul.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/NcvFzpm9M.jpg",
+    "kind": "gato",
+    "name": "dasha",
+    "owner": "Marietta,Brown",
+    "phoneNumber": "+57-311-48350303"
+  },
+  {
+    "description": "The experience gathered from books, though often valuable, is but the nature of learning whereas the experience gained from actual life is one of the nature of wisdom.",
+    "gender": "male",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zwergsaeger_maenchen_weibchen.jpg",
+    "kind": "ave",
+    "name": "poppy luu",
+    "owner": "Melissa,Roberts",
+    "phoneNumber": "+57-311-99782622"
+  },
+  {
+    "description": "I have been astonished that men could die martyrs for religion - I have shuddered at it. I shudder no more - I could be martyred for my religion - Love is my religion - I could die for that.",
+    "gender": "male",
+    "image": "https://cdn2.thecatapi.com/images/MTg0ODgxNQ.jpg",
+    "kind": "gato",
+    "name": "azaria",
+    "owner": "Emily,Manin",
+    "phoneNumber": "+57-311-62845572"
+  }
+]

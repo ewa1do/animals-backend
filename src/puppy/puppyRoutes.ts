@@ -4,12 +4,13 @@ import {
   deleteOnePuppy,
   getAllPuppies,
   getOnePuppy,
+  updatePuppy,
   responseFeatures,
 } from './puppyController';
 
 const router = Router();
 
 router.route('/').get(responseFeatures, getAllPuppies).post(createPuppy);
-router.route('/:id').get(getOnePuppy).delete(deleteOnePuppy);
+router.route('/:id').get(getOnePuppy).patch(updatePuppy).delete(deleteOnePuppy);
 
 export default router;

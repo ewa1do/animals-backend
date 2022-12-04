@@ -18,6 +18,10 @@ class PuppyServices {
     return await repository.getOnePuppy(id);
   }
 
+  async update(id: string, body: any) {
+    return await repository.updatePuppy(id, body);
+  }
+
   async deleteOne(id: string) {
     return await repository.deleteOnePuppy(id);
   }

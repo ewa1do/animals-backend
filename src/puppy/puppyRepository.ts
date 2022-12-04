@@ -28,6 +28,12 @@ class PuppyRepository {
     return puppy;
   }
 
+  async updatePuppy(id: string, body: any) {
+    const puppy = await Puppy.findByIdAndUpdate(id, body);
+
+    return puppy;
+  }
+
   async deleteOnePuppy(id: string) {
     return await Puppy.findByIdAndDelete(id);
   }
